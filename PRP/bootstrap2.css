@@ -228,7 +228,12 @@ th {
   img {
     max-width: 100% !important;
   }
-  p,
+  p {
+    font-family:georgia,garamond,serif;
+    font-size:20px;
+    font-style:none;
+    text-align:left;
+    }
   h2,
   h3 {
     orphans: 3;
@@ -6855,3 +6860,9 @@ button.close {
   color: white;
   text-align: center;
 }
+#interview {
+  font-family:georgia,garamond,serif;
+  font-size:20px;
+  font-style:none;
+  text-align:left;
+  }
